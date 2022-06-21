@@ -1,0 +1,104 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+h1{
+  color: chocolate;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 50px;font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  text-decoration: none;
+   color: red;
+   font-weight: 1000;
+   padding-top: 100px;
+   text-align: center; 
+}
+h3{
+  text-align: center;
+  margin-top: 50px;
+}
+h4{
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+nav{
+  color: rgb(0, 204, 255);
+  height: 40px;
+  width: 100%;
+}
+.button{
+  margin: 0%;
+padding: 0%;
+}
+.img1 {
+margin-top: 70px;
+margin-left: 600px;
+height: 800px;
+width: 700px;
+}
+.img2 {
+margin-top: 70px;
+margin-left: 600px;
+height: 800px;
+width: 700px
+}
+.img3 {
+margin-top: 70px;
+margin-left: 600px;
+height: 800px;
+width: 700px
+}
+.ashuimg{
+  margin-top: 70px;
+  margin-left: 600px;
+  height: 800px;
+  width: 700px
+}
+.ashu{
+  margin-top: 380px;
+  margin-left: 25%;
+  width: 50%;
+  text-align: center;
+  height: 52px;
+  text-decoration: none;
+  background-color: white;
+}
+button{
+  margin-top: 30;
+  height: 50px;
+  background-color: white;
+  border: none;
+  width: 100px;
+
+}
+button:hover{
+  background-color: mediumturquoise;
+  transition: 3s;
+}
+.ashu a{
+  text-decoration: none;
+}
+footer {
+  background-color: #333;
+  overflow: hidden;
+}
+
+footer a {
+  padding-top: 100px;
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+  float: left;
+  color: white;
+}
+.content{
+  text-decoration: none;
+}
+.headding {
+  color: black;
+  text-decoration: none;
+}
